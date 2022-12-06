@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(127, 188, 186);
+    text-align: center;
+    margin-top: 10%;
+}
+h1,h2{
+    font-family: 'Press Start 2P', cursive;
+}
+h1{
+    margin-bottom: 5%;
+}
+button{
+    padding: 5px;
+    font-size: xx-large;
+    margin: 10px;
+    color: rgb(1, 79, 1);
+    background-color: rgb(171, 233, 213);
+    border-radius: 7%;
+}
